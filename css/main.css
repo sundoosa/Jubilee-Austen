@@ -1,0 +1,226 @@
+
+/* global styles */
+
+body {
+
+ font-family: 'Source Sans Pro', sans-serif;
+ color: #5e5d5e;
+
+}
+
+h2 {
+    font-size: 36px;
+    font-family:'Lora', serif;
+    color: #817f80;
+}
+
+h3 {
+
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 100;
+
+}
+
+p {
+font-size: 20px;
+line-height: 40px;
+}
+
+.content-wrapper {
+    margin: 0 auto;
+    width: 1200px;
+    overflow: auto;
+}
+
+
+/* Header styles */
+header h1 {
+
+    width: 300px;
+    padding: 65px 0px 65px 25px;
+    float: left;
+    color: #7B7E54;
+    font-family:'Lora', serif;
+}
+ /* Nav Styles */
+header nav {
+    width: 800px;
+    padding: 75px 25px 75px 0px;
+    float: right;
+    text-align: right;
+}
+
+
+    
+
+nav li {
+    display: inline-block;
+
+
+}
+
+nav a {
+    text-transform: Uppercase;
+    padding-left: 80px;
+    color: #727172;
+    font-size: 18px;
+}
+
+header h2 {
+    clear: both;
+    width: 100%;
+    clear: both;
+    font-family: 'Lora', serif;
+    line-height: 80px;
+    font-size: 36px;
+    padding-left: 25px;
+    color: #817f80;
+    font-size: 72px;
+}
+
+
+.homepage-hero {
+ background: url("../img/full-background.png"), #f9efef;
+ background-size: cover;
+ background-position: center;
+ height: 850px;
+
+}
+
+#about .content-wrapper {
+
+    padding: 80px 0px;
+}
+
+#about h2 {
+ font-family: 'Lora', serif;
+ font-size: 36px;
+ padding: 0px 50px;
+}
+
+#about p {
+    text-align: left; 
+    float: left;
+    width: 500px;
+    padding: 0px 50px;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+#skills {
+background-color: #f5f5f5;
+padding: 115px 0px; 
+
+}
+
+.skill-list {
+float: left;
+width: 300px;
+padding: 0px 50px;
+
+}
+
+.skill-list h3 {
+
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px; 
+}
+
+#skills h2 {
+    text-align: center;
+    margin-bottom: 60px;
+
+
+
+}
+
+.skill-list img {
+ display: block;
+ margin: 0 auto;
+
+}
+
+.skill-list p {
+text-align: center; 
+}
+
+#contact {
+
+background-color: #f9e9e9;
+padding-top: 110px;
+padding-bottom: 110px;
+}
+
+#contact .content-wrapper {
+
+    
+}
+
+.contact-image {
+
+    width: 600px;
+    float: left;
+}
+
+.contact-image img {
+    margin: 0px 50px;
+    width: 500px;
+    height: 320px;
+    border: 15px solid white;
+    box-sizing: border-box;
+}
+
+
+#contact .contact-info {
+    float: left;
+    width: 600px;
+    padding-left: 100px;
+    box-sizing: border-box;
+
+}
+#contact h2 {
+font-weight: 600px;
+margin: 30px 0px;
+}
+
+#contact h3 {
+font-weight: 100px;
+
+}
+
+h3 #cup-coffee {
+margin-bottom: 5px;
+
+}
+
+h3 #socialmedia-header {
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+}
+
+
+#icons li {
+display: inline-block;
+margin-right: 40px;
+}
+
+#icons {
+    padding: 0px;
+}
+
+#mail img {
+margin-right: 10px;
+}
+
+#mail {
+text-decoration: none;
+color: inherit; 
+font-size: 24px;
+}
+
+
+/* font-family: 'Lora', serif;
+font-family: 'Source Sans Pro', sans-serif; */
